@@ -1,0 +1,97 @@
+login,name,email,html_url,acc_created_at,acc_updated_at,followers,following,location,hireable,company,blog,public_gists,public_repos,type
+koppor,Oliver Kopp,kopp.dev@gmail.com,https://github.com/koppor,2012-01-22,2021-05-03,178,339,Germany,FALSE,,https://orcid.org/0000-0001-6962-4290,4,217,User
+Siedlerchr,Christoph,siedlerkiller@gmail.com,https://github.com/Siedlerchr,2010-07-01,2021-04-30,21,28,Germany,FALSE,,,10,38,User
+tobiasdiez,Tobias Diez,,https://github.com/tobiasdiez,2013-07-18,2021-04-30,34,0,,FALSE,,http://tobiasdiez.com/,1,67,User
+stefan-kolb,Stefan Kolb,,https://github.com/stefan-kolb,2012-08-13,2021-04-27,53,10,"Bamberg, Germany",FALSE,@lion5 ,https://PaaSfinder.org,2,18,User
+oscargus,Oscar Gustafsson,,https://github.com/oscargus,2014-07-09,2021-04-25,13,0,,FALSE,,,0,20,User
+simonharrer,Simon Harrer,simon.harrer@innoq.com,https://github.com/simonharrer,2010-08-25,2021-05-03,83,122,"Gerolzhofen, Germany",FALSE,@INNOQ ,https://simonharrer.com,31,21,User
+lenhard,Jörg Lenhard,,https://github.com/lenhard,2012-03-08,2021-02-01,39,33,"Berlin, Germany",FALSE,@SAP,,0,16,User
+matthiasgeiger,Matthias Geiger,,https://github.com/matthiasgeiger,2011-03-18,2021-02-07,20,6,"Bamberg, Germany",FALSE,University of Bamberg,http://www.uni-bamberg.de/en/pi/team/geiger-matthias/,1,10,User
+LinusDietz,Linus Dietz,linus@lynyus.de,https://github.com/LinusDietz,2011-12-10,2021-04-22,42,37,"Munich, Germany",FALSE,Technical University of Munich,http://lynyus.org,1,21,User
+mortenalver,Morten Omholt Alver,,https://github.com/mortenalver,2011-11-15,2020-10-29,2,0,"Trondheim, Norway",FALSE,,,0,6,User
+calixtus,Carl Christian Snethlage,,https://github.com/calixtus,2019-05-10,2021-05-02,5,3,"Germany, Bavaria",FALSE,,,0,3,User
+mlep,MLEP,,https://github.com/mlep,2014-03-12,2021-04-25,3,0,,FALSE,,,0,4,User
+davidemdot,David Méndez,hello@davidemdot.com,https://github.com/davidemdot,2015-06-18,2021-04-29,11,11,Spain,TRUE,2019 GSoC student at @JabRef,https://es.linkedin.com/in/davidemdot,1,12,User
+chriba,Christian Bartsch,,https://github.com/chriba,2015-10-26,2021-04-27,5,19,"Stuttgart, Germany",FALSE,,,0,7,User
+Braunch,,braunch.dev@gmail.com,https://github.com/Braunch,2015-10-27,2021-04-26,4,0,,FALSE,,,0,5,User
+hakova,,,https://github.com/hakova,2011-12-21,2021-04-27,0,1,,FALSE,,,1,4,User
+zesaro,Sascha Zeller,,https://github.com/zesaro,2015-10-27,2021-05-03,8,13,Germany,FALSE,,,0,15,User
+LyzardKing,Galileo Sartor,,https://github.com/LyzardKing,2014-03-31,2021-04-23,8,2,,FALSE,,,0,23,User
+mairdl,Daniel Mair,,https://github.com/mairdl,2015-10-26,2021-01-12,0,0,,FALSE,,,0,3,User
+obraliar,Admir Obralija,,https://github.com/obraliar,2015-11-02,2021-04-23,2,0,,FALSE,,,0,2,User
+boceckts,Tobias Boceck,boceckts@gmail.com,https://github.com/boceckts,2015-10-27,2021-05-03,9,13,,FALSE,,,7,8,User
+k3KAW8Pnf7mkmdSMPHz27,Jonatan Asketorp,,https://github.com/k3KAW8Pnf7mkmdSMPHz27,2012-10-19,2021-05-03,3,21,"West Lafayette, Indiana, USA",TRUE,,,0,12,User
+florian-beetz,Florian Beetz,,https://github.com/florian-beetz,2014-09-24,2021-04-28,8,11,Bamberg,FALSE,Lion[5],https://florianbeetz.de,0,8,User
+grimes2,Jürgen Lange,,https://github.com/grimes2,2015-10-30,2021-04-22,0,1,Germany,FALSE,,,0,0,User
+igorsteinmacher,Igor Steinmacher,igorsteinmacher@gmail.com,https://github.com/igorsteinmacher,2012-12-03,2021-04-27,77,5,"Flagstaff, AZ, USA",FALSE,NAU,www.igor.pro.br,2,59,User
+koji33,Koji,,https://github.com/koji33,2015-04-09,2021-04-20,1,0,Japan,FALSE,,,0,5,User
+DominikVoigt,Dominik Voigt,dominik.ingo.voigt@gmail.com,https://github.com/DominikVoigt,2018-09-18,2021-04-30,5,3,,FALSE,University Stuttgart,,0,5,User
+fc7,fc7,,https://github.com/fc7,2009-05-18,2021-04-30,13,12,,FALSE,,,0,18,User
+tschechlovdev,,tschechlov.dev@gmail.com,https://github.com/tschechlovdev,2015-10-27,2021-05-03,6,0,,FALSE,,,0,8,User
+chochreiner,Christoph Hochreiner,,https://github.com/chochreiner,2009-10-04,2021-04-19,12,0,"Vienna, Austria",TRUE,,https://hochreiner.ch,0,20,User
+marisuki,Rui Kang,R.K.Marisuki@outlook.com,https://github.com/marisuki,2016-10-24,2021-04-23,3,6,,FALSE,"Tsinghua University, China",,0,20,User
+frithnanth,Fernando Santagata,,https://github.com/frithnanth,2013-03-25,2021-03-22,4,0,,FALSE,,,0,38,User
+NicosPavlov,,,https://github.com/NicosPavlov,2013-12-15,2021-04-23,0,0,,FALSE,,,1,2,User
+systemoperator,,,https://github.com/systemoperator,2013-02-21,2021-02-01,0,0,Austria,FALSE,,,0,3,User
+conorfos,,,https://github.com/conorfos,2018-06-15,2020-11-24,1,0,,FALSE,,,0,1,User
+abepolk,Abraham Polk,,https://github.com/abepolk,2016-09-04,2021-04-30,7,4,"Boston, MA",TRUE,,https://www.linkedin.com/in/abe-polk/,0,25,User
+r0light,Robin,,https://github.com/r0light,2016-11-27,2021-04-26,7,5,Bamberg,FALSE,,,0,13,User
+johannes-manner,Johannes Manner,,https://github.com/johannes-manner,2017-07-17,2021-04-27,19,20,,FALSE,,,0,7,User
+snisnisniksonah,,,https://github.com/snisnisniksonah,2016-11-10,2018-07-25,2,0,,FALSE,,,0,11,User
+wuw,,,https://github.com/wuw,2012-12-19,2019-12-22,1,0,,FALSE,,,0,3,User
+ayanai1,,,https://github.com/ayanai1,2015-10-28,2020-11-18,0,0,,FALSE,,,0,1,User
+CaptainDaVinci,Yash  Kothari,yashkothari199767@gmail.com,https://github.com/CaptainDaVinci,2016-08-14,2021-04-28,19,8,"Bangalore, India",FALSE,@atlassian,captaindavinci.github.io,0,45,User
+daniel-price,Daniel Price,,https://github.com/daniel-price,2020-05-02,2021-04-15,1,0,,FALSE,,,0,4,User
+dimitra-karadima,,,https://github.com/dimitra-karadima,2018-10-13,2021-04-28,0,1,,FALSE,,,0,7,User
+chelseyong,Chelsey,chelseyong@gmail.com,https://github.com/chelseyong,2017-07-30,2021-05-02,9,4,Singapore,TRUE,Goldman Sachs,,1,8,User
+KOLANICH,KOLANICH,,https://github.com/KOLANICH,2010-04-09,2021-05-01,46,52,DeepTown,FALSE,KOLANICH inc.,,7,47,User
+egonw,Egon Willighagen,,https://github.com/egonw,2008-09-29,2021-05-03,217,26,"Maastricht, The Netherlands",FALSE,@BiGCAT-UM,https://chem-bla-ics.blogspot.com/,298,421,User
+braincident,CAI Zhichun,,https://github.com/braincident,2019-09-06,2021-04-26,0,0,"Shenzhen, Guangdong, China",FALSE,,,0,5,User
+motokito,Jacky Tran,,https://github.com/motokito,2015-06-24,2021-04-21,1,0,Stuttgart,FALSE,Adesso mobile solutions GmbH,,0,1,User
+allisonsampaio,Allison Sampaio,allisonsampaiox@gmail.com,https://github.com/allisonsampaio,2016-06-07,2021-04-26,15,15,"Campo Mourão, Paraná, Brasil",FALSE,UTFPR-CM,,0,24,User
+jtornero,Jorge Tornero,,https://github.com/jtornero,2013-04-23,2021-04-15,10,7,Spain,FALSE,,http://imasdemase.com,46,25,User
+kubovy,Jan Kubovy,jan@kubovy.eu,https://github.com/kubovy,2012-02-09,2021-04-20,5,5,"Munich, Germany",FALSE,BMW Group AG,https://blog.kubovy.eu,0,32,User
+steph37tours,Stéphane Curet,,https://github.com/steph37tours,2015-10-10,2020-11-28,3,1,France,FALSE,Dev-Tec,www.dev-tec.fr,0,9,User
+MootezSaaD,Mootez Saad,,https://github.com/MootezSaaD,2017-12-19,2021-05-03,0,0,Tunisia,FALSE,MedTech - SMU,,0,30,User
+Ka0o0,Kai Takac,,https://github.com/Ka0o0,2013-04-02,2021-04-29,8,14,Österreich,FALSE,,,0,17,User
+chenyuheng,Yuheng,11711111@mail.sustech.edu.cn,https://github.com/chenyuheng,2013-09-28,2021-04-28,37,75,Shenzhen,FALSE,@SUSTC,,0,24,User
+b0n541,Jan Schäfer,,https://github.com/b0n541,2012-09-11,2021-04-27,6,10,Leipzig,FALSE,,,0,22,User
+alex-petrov-vt,,,https://github.com/alex-petrov-vt,2020-06-23,2021-04-19,0,0,,FALSE,,,0,17,User
+kaiquekk,Kaique Komata,kaique.komata@gmail.com,https://github.com/kaiquekk,2017-10-11,2021-04-21,1,0,Brazil,FALSE,,,0,6,User
+olenz,Olaf Lenz,olaf@koje-lenz.de,https://github.com/olenz,2009-11-26,2020-12-21,21,10,Deutschland,FALSE,Advantest Europe GmbH,,1,30,User
+solrex,Wenbo Yang,,https://github.com/solrex,2011-11-08,2021-04-06,127,26,"Beijing, China",FALSE,@baidu,http://yangwenbo.com,1,37,User
+tmrd993,Timucin Merdin,tmerd@outlook.de,https://github.com/tmrd993,2019-01-30,2021-05-02,0,0,Germany,FALSE,,,0,10,User
+rodps,Rodrigo Paula da Silva,rodrigopds73@gmail.com,https://github.com/rodps,2017-04-27,2021-04-26,2,3,"Campo Mourão/Cianorte, PR - Brasil",FALSE,Computer Science at Federal University of Technology - Paraná,,0,20,User
+RolfStarre,Rolf,,https://github.com/RolfStarre,2013-11-18,2021-05-03,1,0,,FALSE,,,0,1,User
+halirutan,Patrick Scheibe,patrick@halirutan.de,https://github.com/halirutan,2010-12-06,2021-03-29,181,28,"Leipzig, Germany",TRUE,Neurophysics Dep. at Max Planck Institute for Human Cognitive and Brain Sciences,http://www.halirutan.de,31,83,User
+samiyac,Samiya Caur,,https://github.com/samiyac,2018-02-22,2021-04-12,4,5,,FALSE,,,0,5,User
+ambro2,Ambrogio Oliva,,https://github.com/ambro2,2014-03-15,2021-02-17,0,0,,FALSE,,,0,2,User
+adamrehn,Adam Rehn,adam@adamrehn.com,https://github.com/adamrehn,2013-02-06,2021-05-03,163,2,"Cairns, QLD, Australia",FALSE,@TensorWorks,https://adamrehn.com,0,60,User
+dextep,Grzegorz Popiel,grzegorz.popiel@yahoo.com,https://github.com/dextep,2016-08-09,2021-04-23,0,3,Cracow,FALSE,,,0,9,User
+alauber,,,https://github.com/alauber,2012-12-03,2018-09-23,1,1,,FALSE,,,0,1,User
+125m125,,,https://github.com/125m125,2017-06-02,2021-05-03,2,3,,FALSE,,,0,25,User
+jhshinn,Jong-Ho Shinn,,https://github.com/jhshinn,2011-12-02,2020-11-27,0,0,,FALSE,,,0,4,User
+wpoely86,wpoely86,wpoely86@gmail.com,https://github.com/wpoely86,2010-10-02,2021-04-13,20,30,,TRUE,,https://wpoely86.github.io/,15,78,User
+mmihuu,,,https://github.com/mmihuu,2018-07-21,2020-11-12,0,0,,FALSE,,,0,3,User
+Andrew-Lev,Andrew,dreyskiy@gmail.com,https://github.com/Andrew-Lev,2016-03-13,2020-02-14,1,0,Bay Area,FALSE,,,0,6,User
+dahlheim,,,https://github.com/dahlheim,2014-08-17,2020-07-07,0,0,,FALSE,,,0,1,User
+RonakLakhotia,Ronak Lakhotia,ronak.lakhotia999@gmail.com,https://github.com/RonakLakhotia,2017-05-09,2021-04-27,12,25,Singapore,TRUE,,https://www.linkedin.com/in/ronak-lakhotia-153ba5134/,0,31,User
+IngvarJackal,Ingvar Jackal,,https://github.com/IngvarJackal,2014-02-27,2021-05-03,13,6,Tapporauta,FALSE,,https://twitter.com/IngvarJackal,9,28,User
+derebaba,Erdem Derebaşoğlu,,https://github.com/derebaba,2013-05-26,2020-12-17,2,2,,TRUE,,,0,8,User
+joethei,Johannes Theiner,,https://github.com/joethei,2014-04-03,2021-05-03,2,0,Germany,FALSE,University of Applied Sciences Emden/Leer,https://joethei.xyz,0,6,User
+Toromtomtom,Toromtomtom,,https://github.com/Toromtomtom,2014-03-27,2021-04-20,2,0,,FALSE,,https://www.toromtomtom.com/blog,0,5,User
+tolot27,Mathias Walter,,https://github.com/tolot27,2012-01-23,2021-05-03,4,3,"Munich, Germany",FALSE,@imb-fmg ,,1,39,User
+ZhouSky,,,https://github.com/ZhouSky,2019-11-12,2021-04-02,0,0,,FALSE,,,0,9,User
+Gena928,Gennadiy,GennadiyStakhovskiy@gmail.com,https://github.com/Gena928,2016-07-21,2021-04-02,0,0,"Moscow, Russia",FALSE,,,0,4,User
+dawidm,Dawid Motyka,,https://github.com/dawidm,2014-03-04,2021-03-30,2,1,Poland,FALSE,,,0,15,User
+steog88,Stefano,,https://github.com/steog88,2015-04-15,2021-04-29,0,0,,FALSE,,,0,10,User
+was123,,,https://github.com/was123,2014-03-17,2016-02-27,0,0,,FALSE,,,0,1,User
+JoHaHu,Johannes Hupe,,https://github.com/JoHaHu,2015-01-26,2021-05-03,4,22,Deutschland,FALSE,,https://www.github.com/JoHaHu,0,8,User
+sauliusg,Saulius Gražulis,,https://github.com/sauliusg,2015-01-23,2021-04-23,8,0,,FALSE,,,0,19,User
+Naitoreivun,Dominik Traczyk,,https://github.com/Naitoreivun,2015-04-06,2021-04-05,12,11,,FALSE,,,0,6,User
+leitianjian,Tianjian lei,leitianjian@outlook.com,https://github.com/leitianjian,2017-08-14,2021-04-30,4,10,ShenZhen,FALSE,southern university of science and technology of china,leitianjian@github.io,0,29,User
+jacksonrya,Jackson Baker Ryan,,https://github.com/jacksonrya,2014-10-07,2021-04-28,1,10,Seattle,TRUE,,jbr.fyi,0,12,User
+BJaroszkowski,,,https://github.com/BJaroszkowski,2019-08-25,2021-04-07,1,2,,FALSE,,,0,5,User
+ningxie1991,ningxie,,https://github.com/ningxie1991,2013-01-26,2021-05-03,2,0,,FALSE,,,0,11,User
+btut,Benedikt Tutzer,,https://github.com/btut,2015-01-10,2021-04-22,1,1,,FALSE,,,0,6,User
+Brainsucker92,,,https://github.com/Brainsucker92,2014-09-28,2021-04-25,2,0,"Ba-Wü, Germany",FALSE,,,0,23,User
